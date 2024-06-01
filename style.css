@@ -1,6 +1,5 @@
-@media scream and (max-width:569px){
 
-}
+
 body {
   background: #EECDA3;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #EF629F, #EECDA3);  /* Chrome 10-25, Safari 5.1-6 */
@@ -8,22 +7,18 @@ body {
 
 }
 
-
-
-
-
-
-  @media scream and (min-wit:570px){
+  @media (max-width:570px){
     body {
-      background-color: #13171F;
+      background: #00C9FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #92FE9D, #00C9FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #92FE9D, #00C9FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
       font-size: 15px;
       font-family: 'Poppins';
       place-content: center;
     }
 
   }
-
-
 
   .calculator {
     margin: auto;
