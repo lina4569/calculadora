@@ -27,7 +27,7 @@ function dividir() {
 }
 
 function potencia() {
-  // Igresa aquí tu códi
+  
   // Ingresa aquí tu código.
   // Ingresa aquí tu código. ¡¡¡Pista!!!, así se realiza la potencia: Math.pow(num1, num2);
   document.getElementById('resultado').innerText = resultado;
